@@ -1,5 +1,5 @@
 
-body > ul > li { font-family: PT Sans, Trebuchet MS, Helvetica, Arial; font-size: 14px; }
+body > ul > li { font-family: Star Trek Gen, Impact; font-size: 14px; }
  
 body > a {
   text-decoration:none;
@@ -127,13 +127,13 @@ pre {
 }
  
 h3 { 
-    /*font-family: PT Sans, Trebuchet MS, Tahoma, Helvetica, Arial;*/
+    /*font-family: Star Trek Gen, Impact;*/
     margin-left: 0;
     margin-right: 0;
     margin-top: 3em;
 }   
  
-h2 { font-family: Tahoma, Helvetica, Arial; text-align: center; font-size: 200%; }
+h2 { font-family: Star Trek Gen, Impact; text-align: center; font-size: 200%; }
  
 a{ color: #37474F;}
  
