@@ -1,5 +1,5 @@
 
-body > ul > li { font-family: Star Trek Gen, Impact; font-size: 14px; }
+body > ul > li { font-family: Impact; font-size: 14px; }
  
 body > a {
   text-decoration:none;
@@ -122,18 +122,18 @@ pre {
     margin-right: 0;
     border-left: 2px dotted black;
     background-color: #f0f0ff;
-    font-family: Andale Mono, Luxi Mono, Courier;
+    font-family: Impact;
     padding: 0.5em;
 }
  
 h3 { 
-    /*font-family: Star Trek Gen, Impact;*/
+    /*font-family: Impact;*/
     margin-left: 0;
     margin-right: 0;
     margin-top: 3em;
 }   
  
-h2 { font-family: Star Trek Gen, Impact; text-align: center; font-size: 200%; }
+h2 { font-family: Impact; text-align: center; font-size: 200%; }
  
 a{ color: #37474F;}
  
